@@ -1,1 +1,5 @@
-export const TOKEN = "5272061204:AAEDlFo6gceEVfj1-5OA7Ff-oMX9NqY5O84";
+// node bot
+//nodemon bot
+//npm run start
+export const TOKEN = "7166330226:AAECh2J1TjaTTpQ5QzRf2-4hYcJdsK0T8QQ";
+export const PORT = 3000;
